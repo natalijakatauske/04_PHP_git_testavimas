@@ -8,3 +8,5 @@ Second row of hotfix branch
 First row of feature1 branch
 Second row of feature1 branch
 Third row of feature1 branch
+
+First row of feature2 branch
