@@ -3,3 +3,4 @@ Second row of main branch
 Third row of main branch
 
 First row of hotfix branch
+Second row of hotfix branch
